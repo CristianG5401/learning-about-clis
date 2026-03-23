@@ -1,6 +1,6 @@
 # Learning About CLIs 🧪
 
-Pequeños proyectos para entender cómo funcionan los CLIs y aprender a construir mis propios CLIs (lastima que este proyecto <https://github.com/HKUDS/CLI-Anything> hace CLIs solo y hacer parecer este trabajo como algo inutil).
+Pequeños proyectos para entender cómo funcionan los CLIs y aprender a construirlos (lástima que este proyecto <https://github.com/HKUDS/CLI-Anything> hace CLIs solo y hace parecer este trabajo como una pérdida de tiempo).
 
 ## Los proyectos
 
@@ -12,7 +12,7 @@ Aquí aprendí cómo `process.argv` entrega los argumentos crudos y cómo un cic
 
 ### [playground-citty-arguments-parcer](./playground-citty-arguments-parcer/)
 
-Mismo concepto pero usando citty, un framework declarativo del ecosistema unjs. Describes lo que quieres y citty hace la magia: parsing, validación, `--help` gratis, aliases... todo lo que me dio pereza o no sabia como implementar en el anterior.
+Mismo concepto pero usando citty, un framework declarativo del ecosistema unjs. Describes lo que quieres y citty hace la magia: parsing, validación, `--help` gratis, aliases... todo lo que me dio pereza o no sabía cómo implementar en el anterior.
 
 ## ¿Por qué este orden?
 
