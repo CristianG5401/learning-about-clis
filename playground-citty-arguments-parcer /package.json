@@ -1,0 +1,21 @@
+{
+  "name": "bun-playground",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "start:watch": "bun --watch src/index.ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.8",
+    "@types/bun": "^1.3.11"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "citty": "^0.2.1",
+    "consola": "^3.4.2"
+  }
+}
